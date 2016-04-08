@@ -1,7 +1,7 @@
 #zmodload zsh/zprof
 
 # Load Antibody (Plugin Manager)
-#source ~/.zsh/antibody.zsh
+source ~/.zsh/antibody.zsh
 
 # Turn on Prompt Substitution
 #setopt PROMPT_SUBST
