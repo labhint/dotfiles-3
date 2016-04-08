@@ -1,5 +1,5 @@
 #zmodload zsh/zprof
-
+export ANTIBODY_BINARIES='~/.zsh/zsh/.zsh/bin'
 # Load Antibody (Plugin Manager)
 source ~/.zsh/zsh/.zsh/antibody.zsh
 
